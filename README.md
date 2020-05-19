@@ -1,5 +1,7 @@
-# MyOpenSprinkler
+# myOpenSprinkler
 open-source RaspberryPi sprinkler valve controller
+
+This repo includes the KiCad project.
 
 **Features:**
 - designed for RaspberryPi Zero W
