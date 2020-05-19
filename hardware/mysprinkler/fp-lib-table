@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri C:/GIT/digikey/digikey-kicad-library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name mysprinkler)(type KiCad)(uri C:/Users/Adi/Desktop/raspberry/mysprinkler/kicad/lib/mysprinkler.pretty)(options "")(descr ""))
+)

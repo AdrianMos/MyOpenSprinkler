@@ -1,0 +1,93 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOC3032M
+D Zero Cross Opto-Triac, Vdrm 250V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3031M.pdf
+$ENDCMP
+#
+$CMP MOC3033M
+D Zero Cross Opto-Triac, Vdrm 250V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3031M.pdf
+$ENDCMP
+#
+$CMP MOC3041M
+D Zero Cross Opto-Triac, Vdrm 400V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3031M.pdf
+$ENDCMP
+#
+$CMP MOC3042M
+D Zero Cross Opto-Triac, Vdrm 400V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3031M.pdf
+$ENDCMP
+#
+$CMP MOC3043M
+D Zero Cross Opto-Triac, Vdrm 400V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3031M.pdf
+$ENDCMP
+#
+$CMP MOC3061M
+D Zero Cross Opto-Triac, Vdrm 600V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3061M.pdf
+$ENDCMP
+#
+$CMP MOC3062M
+D Zero Cross Opto-Triac, Vdrm 600V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3061M.pdf
+$ENDCMP
+#
+$CMP MOC3063M
+D Zero Cross Opto-Triac, Vdrm 600V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3061M.pdf
+$ENDCMP
+#
+$CMP MOC3081M
+D Zero Cross Opto-Triac, Vdrm 800V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3081M.pdf
+$ENDCMP
+#
+$CMP MOC3082M
+D Zero Cross Opto-Triac, Vdrm 800V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3081M.pdf
+$ENDCMP
+#
+$CMP MOC3083M
+D Zero Cross Opto-Triac, Vdrm 800V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3081M.pdf
+$ENDCMP
+#
+$CMP MOC3162M
+D Zero Cross Opto-Triac, Vdrm 600V, Ift 10mA, dv/dt 1000, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3061M.pdf
+$ENDCMP
+#
+$CMP MOC3163M
+D Zero Cross Opto-Triac, Vdrm 600V, Ift 5mA, dv/dt 1000, DIP6
+K Opto-Triac Opto Triac Zero Cross
+F http://www.fairchildsemi.com/ds/MO/MOC3061M.pdf
+$ENDCMP
+#
+$CMP Raspberry_Pi_2_3
+D expansion header for Raspberry Pi 2 & 3
+K raspberrypi gpio
+F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf
+$ENDCMP
+#
+$CMP VOT8024AM
+D Zero Cross Opto-Triac, Vdrm 800V, Ift 5mA,   flat 2.0 mm SOP-4
+K Opto-Triac Opto Triac Zero Cross Optocoupler Phototriac
+F https://www.vishay.com/docs/84909/vot8024am.pdf
+$ENDCMP
+#
+#End Doc Library
