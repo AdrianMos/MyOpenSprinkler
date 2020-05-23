@@ -24,3 +24,4 @@ This repo includes the KiCad project.
 
 <img src="images/v1.0/front1.JPG" width="400"> <img src="images/v1.0/front2.JPG" width="400">
 <img src="images/v1.0/back.JPG" width="400"> <img src="images/v1.0/components.JPG" width="400">
+<img src="images/v1.0/with-enclosure.JPG" width="400">
